@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm David, an IT Professional</h1>
 
-<img align="right" alt="" width="100" src="https://lucillebruise.tumblr.com/post/112543374482/hello-it-have-you-tried-turning-it-off-and-on">
-
 - 🔭 I’m currently working on **idk yet**
  
 - 🌱 I’m currently building intuition for **DNS**
