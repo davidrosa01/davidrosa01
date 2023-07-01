@@ -1,4 +1,4 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-rosa-62268227b/" target="_blank">IT Professional</a></h1>
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-rosa-62268227b/" target="_blank" rel="noopener noreferrer">IT Professional</a></h1>
 
 - 🔭 I’m currently working on **idk yet**
  
