@@ -1,14 +1,11 @@
 <h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-rosa-62268227b/">IT Professional</a>😃</h1>
 
-- 🔭 I’m currently working on **idk yet**
- 
-- 🌱 I’m currently building intuition for **DNS**
+<p>
+Welcome to my tech dungeon! </p>
+<p>
+Are you ready to dive into a world of innovation and learning? I'm a tech enthusiast with a passion for turning ideas into reality. From coding adventures to delving into the depths of cybersecurity, I've explored it all. My portfolio is a colorful mix of projects that showcase my love for problem-solving and my unwavering passion for IT. So, buckle up and get ready to explore the endless possibilities of technology with me. Together, let's build something amazing!
 
-- 💬 Ask me about **osTicket, Azure or VPNs**
-
-- 📫 How to reach me **dsrosa40@gmail.com**
-
-- ⚡ Fun fact **I love soccer!**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
